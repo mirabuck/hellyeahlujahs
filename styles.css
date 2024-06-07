@@ -1,0 +1,27 @@
+body {
+  margin: auto;
+  text-align: center;
+  background-image: url(foret.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #100c0b;
+}
+
+h1 {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding: 25px;
+  display: block;
+  width: 100%;
+  font-size: 6em;
+  max-width: 320PX;
+  text-align: center;
+  margin: auto;
+  color: #fff;
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.75);
+  line-height: .80em;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  border: dashed 1px rgba(300,300,300,0.25);
+}
